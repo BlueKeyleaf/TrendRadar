@@ -9,14 +9,6 @@ HarmonyOS
 大疆
 DJI
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
 字节
 bytedance
 张一鸣
@@ -42,9 +34,6 @@ chatgpt
 openai
 sora
 
-claude
-Anthropic
-
 iphone
 ipad
 mac
@@ -53,8 +42,6 @@ ios
 ai
 !gai
 人工智能
-
-机器人
 
 国产
 中国
